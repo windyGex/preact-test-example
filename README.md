@@ -1,6 +1,6 @@
 # Preact test example
 
-This project is a example for preact-test-utils and enzyme
+This project is an example for preact-test-utils and enzyme
 
 ## Get Started
 
