@@ -1,4 +1,4 @@
-Preact test example
+# Preact test example
 
 This project is a example for preact-test-utils and enzyme
 
